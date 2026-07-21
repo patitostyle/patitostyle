@@ -20,15 +20,12 @@ I'm currently exploring new opportunities where I can combine these skills to bu
 
 ## Featured Project
 
-### [Master's Thesis (TFM) — Project Name Here](https://github.com/patitostyle/REPO_NAME)
-Brief one-line description of what the thesis solves (e.g. "Deep learning model for crop classification using satellite imagery and GIS data").
-
-> Update the link and description above once your TFM repo is ready.
+### [Weed Detection in Barley Crops Using Multispectral Imagery and Deep Learning Models](https://github.com/patitostyle/REPO_NAME)
+Master's Thesis (TFM) applying deep learning models to multispectral imagery for automated weed detection in barley crops.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-- Email: your.email@example.com
+- Email: patricio.hernandez@alumnos.upm.es
 
 ---
 
